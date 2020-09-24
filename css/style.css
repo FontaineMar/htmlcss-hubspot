@@ -1,0 +1,155 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-top{
+            position: relative;
+}
+
+
+
+.language{
+          width:200px;
+          height:100%;
+          background-color:lightgreen;
+          position: absolute;
+          left:15%;}
+
+.search{
+        width:300px;
+        height:100%;
+        background-color:lightgreen;
+        position: absolute;
+        right:15%;
+}
+
+.menu{
+      position: relative;
+}
+
+.project{
+         width:200px;
+         height:100%;
+         background-color:lightblue;
+         position: absolute;
+         left:15%;
+}
+
+.sidebar{
+         width:600px;
+         height: 100%;
+         background-color: lightblue;
+         position: absolute;
+         right:15%;
+}
+
+.grow{
+      background-image: url(../img/case.jpg);
+      background-size:cover;
+      position: relative;}
+
+.spiegazione{
+              height:100%;
+              width:30%;
+              position:absolute;
+              left:15%;
+              top:15%;
+              font-size:25px;
+}
+
+.push{
+       height:50px;
+       width: 150px;
+      background-color:orange;
+      margin-top: 20px;
+}
+
+.get-try{
+         font-size: 10px;
+         margin-top: 20px;
+}
+
+.power-foul{
+  position: relative;
+}
+
+.col-1{
+       height: 150px;
+       width: 500px;
+       background-color: azure;
+       border:1px solid black;
+
+
+
+
+
+}
+
+.group-col{position: absolute;
+           top: 60%;
+           left:50%;
+           transform: translate(-50%,-50%);
+
+}
+
+.col-2,.col-3,.col-4{
+                      background-color: azure;
+                      height: 500px;
+                      width: 150px;
+                      border: 1px solid black;
+                      display: inline-block;
+                      margin-top:10px;
+}
+
+.col-3{
+       margin:0px 20px;
+}
+
+.sign-up{
+         position: relative;
+}
+
+.try-free{
+          height: 100%;
+          width:40%;
+          background-color:purple;
+          position: absolute;
+          left:0%;
+}
+
+
+
+.sponsor{
+         background-color: pink;
+         height: 100%;
+         width:60%;
+         position: absolute;
+         right:0%;
+}
+
+hr {
+    color:blue;
+     height: 20%;}
+
+/* ALTEZZE E COLORI */
+
+
+.h-50{
+          height:50px;
+          background-color:blue;
+
+}
+
+.h-500{
+        height:500px;
+        background-color: yellow;
+
+
+}
+
+.h-800{
+        height:1000px;
+        background-color:grey;
+}
