@@ -4,9 +4,17 @@
   padding: 0;
 }
 
+.container-1{
+             background-color: rgb( 158, 240, 236);
+}
 
+.header-top{
+  width: 70%;
+  margin: auto;
+  border-bottom:1px solid lightgreen;
+}
 
-.header-top ,.header-bottom{
+.header-bottom{
   width: 70%;
   margin: auto;
 }
@@ -15,6 +23,7 @@
           float: left;
           display: inline-block;
 }
+
 .log{
      float: right;
      display: inline-block;
@@ -29,21 +38,23 @@
          display: inline-block;
 }
 
-.logohub{width:100px;
+.logohub{
+         width:100px;
          height:50px;
          float: left;
 
 }
 
-.container-one
-               {background-image: url(img/case.jpg);
-                background-size: 100% 100%;
+.container-3{
+             background-image: url(img/case.jpg);
+             background-size: 100% 100%;
 }
 
 .grow{
       width:70%;
       margin: auto;
 }
+
 .spiegazione{
               height:100%;
               width:30%;
@@ -63,8 +74,15 @@
          margin-top: 20px;
 }
 
+.line{
+      background-color: rgb( 10, 168, 160);
+      border-top: 2px solid rgb( 3, 105, 99);
+      border-bottom: 2px solid rgb( 3, 105, 99);
+}
+
 .power-ful{
   position: relative;
+  background-color: rgb( 228, 237, 159);
 }
 
 .power{
@@ -74,6 +92,14 @@
 .rubik{
   width: 100px;
   height: 100px;
+}
+
+.alone{
+        margin:20px;
+}
+
+.col-1 ,.col-2 ,.col-3 ,.col-4{
+          border-radius:20px;
 }
 
 .col-1{
@@ -198,7 +224,7 @@
 
 .h-50{
           height:50px;
-          background-color:blue;
+
 
 }
 
@@ -211,5 +237,6 @@
 
 .h-800{
         height:1000px;
-        background-color:grey;
+
+
 }
