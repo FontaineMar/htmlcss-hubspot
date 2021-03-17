@@ -321,6 +321,7 @@ height:50%;
 .partner > img{
   height: 30px;
   width: 130px;
+  margin:10px;
 }
 
 .regard-footer{
@@ -371,6 +372,7 @@ ul{
   padding-bottom:10px;
   padding-top:30px;
 }
+
 hr{
   border:1px solid #fff;
 }
@@ -378,37 +380,6 @@ hr{
 .reguards{
   font-size:20px;
 }
-
-
-
-/* ALTEZZE E ALTRO */
-
-
-.h-60{
-    height:60px;
-
-}
-
-.text-pos{
-  margin: 30px;
-
-}
-
-.bold-text{
-    font-weight:bold;
-}
-
-.push-o{
-    color: #fff;
-    background-color: #ffa500;
-    border-radius: 5px;
-}
-
-.push-w{
-    background-color: #fff;
-    border: 1px solid #ffa500;
-    color: #ffa500;
-    border-radius: 5px;}
 
 .font-small{
     font-size: 10px;
@@ -425,24 +396,10 @@ a:link{
     padding: 10px;
 }
 
-.font-title-wi-ca{
-    font-size:25px;
-}
-
-.font-wi-ca{
-    font-size: 15px;
-}
 
 .floating-l{
     float: left;
 }
 
-.floating-r{
-    float: right;
-}
-
-.font-center{
-    text-align: center;
-}
 
 
